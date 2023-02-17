@@ -81,8 +81,8 @@ esac
 echo "Total arguments : $#"
 echo "1st Argument = $1"
 echo "2nd Argument = $2"
-string1="Sakthi"
-string2="vel"
+string1="Prabha"
+string2="raj"
 echo "$string1$string2"
 string3=$string1+$string2
 string3+=" is a Student"
